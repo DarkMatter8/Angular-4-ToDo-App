@@ -1,0 +1,20 @@
+.main{
+  padding-top:50px;
+  color: #858585;
+}
+
+.addarea{
+  padding-left:400px;
+  padding-right:400px;
+  padding-top:10px;
+}
+
+.close-button{
+  cursor:pointer;
+  float:right;
+  color:#007BFF;
+}
+
+.divide{
+  background-color:#007BFF;
+}
